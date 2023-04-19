@@ -1,0 +1,1 @@
+This repository has presentation materials used for the Dev Summit 2023 session titled "Big Data Real Use Cases Stories" that took place on Tuesday, March 7th 2023 from 4-5PM PST. This session was co-presented by Alex Almond and Mansour Raad. Topics covered included running GWR using Uber H3 in Big Data Toolkit (BDT), and the road ahead for GPU capabilities in BDT.
